@@ -1,12 +1,10 @@
-# Algorithm study
------------------
+📖 Algorithm study
+===============
+💻   🚴‍♀️🚴‍♀️🚴‍♀️
 
-  Name    (Branch) - Language
----------------------------
-  마규석 (KyuSeok) - Java
+    마규석 (KyuSeok) - Java
 
-  현재호 (Seongdae)- Java
+    현재호 (Seongdae)- Java
   
-  이성대 (jaeho)- Python
+    이성대 (jaeho)- Python
   
-------------------
