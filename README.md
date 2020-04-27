@@ -4,7 +4,8 @@
 
     마규석 (KyuSeok) - Java
 
-    현재호 (Seongdae)- Java
+    현재호 (jaeho)- Java
   
-    이성대 (jaeho)- Python
+    이성대 (Seongdae)- Python
+    
   
